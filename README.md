@@ -3,8 +3,7 @@
 ### [twitter](https://twitter.com/achte_te)
 
 ## Description
-
-
+An application that generates Kanye Quotes using Kanye REST api.  
 ## Requirements
 
 [Python](https://www.python.org/)
